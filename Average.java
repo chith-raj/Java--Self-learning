@@ -3,7 +3,7 @@ public class Average
 {
  public static void main(String args[]) {    
      int sum = 0,avg;
-     ArrayList<Integer> list = new ArrayList<Integer>();
+     ArrayList <Integer> list = new ArrayList<Integer>();
      //adding values
 
      list.add(34);
